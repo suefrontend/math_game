@@ -2,8 +2,7 @@ class Game
     def initialize(player)
         @player1 = player1
         @player2 = player2
-        @score= score
-        @lives = lives
+        @score = score
         @current_player = current_player
         @answer = answer
     end
